@@ -6,7 +6,7 @@ The purpose of the analysis was to display UFO data with a dynamic webpage. The 
 ## Results
 
 ### UFO Main Page
-Display of the main page with the filter criteria on the left side and an icon labaled "UFO Sightings" located in the top left corner to refresh and reset a filtered table
+Display of the main page with the filter criteria on the left side and an icon labeled "UFO Sightings" located in the top left corner to refresh and reset a filtered table
 <img src="https://github.com/ChrisBarton107/UFOs/blob/main/static/images/UFO_main.png" alt="drawing" width="1000"/>
 
 ### Filter by Date
