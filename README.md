@@ -5,13 +5,16 @@ The purpose of the analysis was to display UFO data with a dynamic webpage. The 
 
 ## Results
 
-UFO Main Page<br>
+### UFO Main Page<br>
+Display of the main page with the filter criteria on the left side and an icon labaled "UFO Sightings" located in the top left corner to refresh and reset any a filtered table
 <img src="https://github.com/ChrisBarton107/UFOs/blob/main/static/images/UFO_main.png" alt="drawing" width="1000"/>
 
-Filter by Date<br>
+### Filter by Date<br>
+Located on the left side of the page is the filter table. This table enables the user to filter data based on date, city, state, country, and shape. Pictured is data filtered by date, with input of 1/5/2010. The resulting table shows all data with this date.
 <img src="https://github.com/ChrisBarton107/UFOs/blob/main/static/images/UFO_date_filter.png" alt="drawing" width="1000"/>
 
-Filter by Date And Shape<br>
+### Filter by Date And Shape<br>
+The filter table used on this page can be used on more than one criteria concurrently. If the user desires, they can input up to five criteria with the current setup. The table below displays data filtered on date and shape. The table displays information with 1/1/2010 as the date and triangle as the shape. 
 <img src="https://github.com/ChrisBarton107/UFOs/blob/main/static/images/UFO_date_shape.png" alt="drawing" width="1000"/>
 
 
