@@ -3,7 +3,7 @@
 ## Overview of Project
 The purpose of the analysis was to display UFO data with a dynamic webpage. The analysis was performed by enabling users to filter UFO sighting data based on event date, city, state, country, and shape.
 
-Webpage deployment: http://chrisbarton107/github.io/UFOs
+Webpage deployment: http://chrisbarton107.github.io/UFOs
 ## Results
 
 ### UFO Main Page
